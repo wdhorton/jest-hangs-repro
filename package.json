@@ -1,0 +1,14 @@
+{
+  "name": "jest-hangs-repro",
+  "version": "1.0.0",
+  "description": "",
+  "main": "while.spec.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "jest": "^16.0.2"
+  }
+}
